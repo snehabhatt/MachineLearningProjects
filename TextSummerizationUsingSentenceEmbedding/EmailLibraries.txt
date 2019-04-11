@@ -1,0 +1,120 @@
+[?4/?8/?2019 12:41 PM]  
+hey
+ 
+[?4/?8/?2019 12:41 PM]  
+decided these topics
+ 
+[?4/?8/?2019 12:41 PM]  
+Semantic Analysis and language Generation
+
+text summarization 
+
+multi-label text classification 
+
+ 
+ 
+[?4/?8/?2019 12:41 PM]  Anujay Saraf:  
+nice
+ 
+We saved this conversation. You'll see it soon in the Conversations tab in Skype for Business and in the Conversation History folder in Outlook. 
+[?4/?8/?2019 1:41 PM]  Anujay Saraf:  
+Have you encountered such type of error
+WARNING: A space was detected in your requested environment path
+'<C:\Program Files\Anaconda3\envs\ai>'
+Spaces in paths can sometimes be problematic.
+Solving environment: failed
+
+ResolvePackageNotFound:
+  - wget 
+ 
+[?4/?8/?2019 1:42 PM]  
+nope use \\
+generally
+set dir with iscir
+ 
+[?4/?8/?2019 1:42 PM]  Anujay Saraf:  
+i am creating new environment using YML
+
+ 
+[?4/?8/?2019 1:42 PM]  
+*oscir
+ 
+[?4/?8/?2019 1:42 PM]  Anujay Saraf:  
+not sure whats the issue
+ 
+[?4/?8/?2019 1:43 PM]  
+why not cmd
+ 
+[?4/?8/?2019 1:43 PM]  Anujay Saraf:  
+i need to set the dependencies accordingly
+ 
+[?4/?8/?2019 1:44 PM]  
+in c#
+theres something @
+try to see same in python
+it ignore all spaces
+ 
+We saved this conversation. You'll see it soon in the Conversations tab in Skype for Business and in the Conversation History folder in Outlook. 
+[?4/?8/?2019 2:13 PM]  
+hey
+ 
+[?4/?8/?2019 2:13 PM]  
+in this article
+https://medium.com/jatana/unsupervised-text-summarization-using-sentence-embeddings-adb15ce83db1 
+frm where they hv brought emial
+*email
+ 
+[?4/?8/?2019 2:14 PM]  Anujay Saraf:  
+let me check,
+i am in a cal
+ 
+[?4/?8/?2019 2:14 PM]  
+ok
+ 
+We saved this conversation. You'll see it soon in the Conversations tab in Skype for Business and in the Conversation History folder in Outlook. 
+[?4/?8/?2019 2:54 PM]  Anujay Saraf:  
+he is using pre trained models
+ 
+[?4/?8/?2019 2:54 PM]  Anujay Saraf:  
+Download the pre-trained models. The total download size will be of around 5 GB. Do: 
+mkdir skip-thoughts/models
+wget -P ./skip-thoughts/models http://www.cs.toronto.edu/~rkiros/models/dictionary.txt
+wget -P ./skip-thoughts/models http://www.cs.toronto.edu/~rkiros/models/utable.npy
+wget -P ./skip-thoughts/models http://www.cs.toronto.edu/~rkiros/models/btable.npy
+wget -P ./skip-thoughts/models http://www.cs.toronto.edu/~rkiros/models/uni_skip.npz
+wget -P ./skip-thoughts/models http://www.cs.toronto.edu/~rkiros/models/uni_skip.npz.pkl
+wget -P ./skip-thoughts/models http://www.cs.toronto.edu/~rkiros/models/bi_skip.npz
+wget -P ./skip-thoughts/models http://www.cs.toronto.edu/~rkiros/models/bi_skip.npz.pkl 
+ 
+[?4/?8/?2019 2:55 PM]  
+i m directly reading fmr my mail now
+uisng AMPE api
+*MApe
+ 
+[?4/?8/?2019 2:56 PM]  
+i guess more practical this is
+ 
+[?4/?8/?2019 2:56 PM]  Anujay Saraf:  
+yes
+but you have the train the model for the weights
+like he did
+ 
+[?4/?8/?2019 3:01 PM]  
+haan
+i will put in csv
+and then read
+*put in text
+ 
+[?4/?8/?2019 3:02 PM]  Anujay Saraf:  
+rather then putting take in JSON
+then directly use it there
+why to do double work
+ 
+[?4/?8/?2019 3:03 PM]  
+i didnt knoa lternative
+om
+*ok
+*know alternative
+ 
+
+ok ok
